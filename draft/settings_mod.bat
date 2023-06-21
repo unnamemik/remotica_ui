@@ -1,0 +1,1 @@
+python -m PyQt5.uic.pyuic -x settings_mod.ui -o settings_mod.py
