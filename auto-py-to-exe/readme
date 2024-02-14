@@ -1,0 +1,8 @@
+$ pip install auto-py-to-exe
+
+C:\Python312\Scripts
+
+$ auto-py-to-exe
+
+Команда в bat-файл: pyinstaller --noconfirm --onefile --windowed --icon "D:/git/python/remotica-ui/draft/favicon.ico"  "D:/git/python/remotica-ui/main.py"
+

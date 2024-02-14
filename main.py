@@ -8,8 +8,8 @@ import about_mod
 import settings_mod
 import main_gui
 
-host = '127.0.0.1'
-port = 9999
+host = '192.168.0.104'
+port = 8266
 
 
 class AboutMod(QDialog, about_mod.Ui_Dialog):
