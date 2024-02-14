@@ -90,8 +90,6 @@ class MainWindow(QtWidgets.QMainWindow, main_gui.Ui_MainWindow):
 
     def rst_but3(self):
         self.send_data('Rst')
-        self.send_data('Rst')
-        self.send_data('Rst')
 
     def left_but4(self):
         self.send_data('Left')
